@@ -1,3 +1,7 @@
+This project is a Front End representation of a one stop med-care website.
+
+
+
 <-----Project in progress----->
 
 Following pages to be added:
