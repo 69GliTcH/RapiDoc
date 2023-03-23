@@ -1,5 +1,6 @@
-This project is a Front End representation of a one stop med-care website.
-Some features might not work without internet while testing
+This project is a Front End representation prototype of RapiDoc.
+It may contain minor bugs that will be resolved before final presentation of the project.
+Some features might not work without internet while testing.
 
 
 
@@ -12,3 +13,5 @@ Following pages to be added:
 2. Doctors by Speciality- webpage containing profile cards of doctors containing their contacts.
 
 3. How to use video guide.
+
+
