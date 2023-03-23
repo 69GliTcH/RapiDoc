@@ -381,9 +381,6 @@ section {
     line-height: 24px;
     margin-bottom: 30px;
   }
-#home img{
-  display: none;
-}
 }
 
 @media (max-height: 600px) {
