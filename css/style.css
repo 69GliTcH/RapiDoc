@@ -387,6 +387,9 @@ section {
   #home {
     height: 110vh;
   }
+#home img{
+height: 0;
+}
 }
 
 
