@@ -1,1 +1,1 @@
-RapiDoc is an online platform which enables you to get information about your nearest hospitals and healthcare facilities. It aims to address health-related issues. It is a one-stop destination for all your medical needs.
+RapiDoc is an online platform which enables you to get information about your nearest hospitals and healthcare facilities including important information like blood availablity in emergency, Opds and beds availability in your nearest/desired hospitals. It aims to address health-related issues. It is a one-stop destination for all your medical needs.
