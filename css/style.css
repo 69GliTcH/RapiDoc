@@ -369,6 +369,9 @@ section {
     margin-bottom: 0;
     height: 100vh;
   }
+#home img{
+width: 0px;
+}
   #home .container {
     padding-bottom: 63px;
   }
@@ -387,10 +390,6 @@ section {
   #home {
     height: 110vh;
   }
-#home img{
-height: 0;
-width: 0;
-}
 }
 
 
