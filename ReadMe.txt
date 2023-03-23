@@ -1,5 +1,5 @@
 This project is a Front End representation of a one stop med-care website.
-Some features might not work without internet wile testing
+Some features might not work without internet while testing
 
 
 
